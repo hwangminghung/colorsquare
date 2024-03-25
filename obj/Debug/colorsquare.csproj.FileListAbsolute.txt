@@ -1,0 +1,8 @@
+D:\Unity codegym\CtoF\colorsquare\obj\Debug\colorsquare.csproj.AssemblyReference.cache
+D:\Unity codegym\CtoF\colorsquare\obj\Debug\colorsquare.csproj.SuggestedBindingRedirects.cache
+D:\Unity codegym\CtoF\colorsquare\obj\Debug\colorsquare.csproj.CoreCompileInputs.cache
+D:\Unity codegym\CtoF\colorsquare\bin\Debug\colorsquare.exe.config
+D:\Unity codegym\CtoF\colorsquare\bin\Debug\colorsquare.exe
+D:\Unity codegym\CtoF\colorsquare\bin\Debug\colorsquare.pdb
+D:\Unity codegym\CtoF\colorsquare\obj\Debug\colorsquare.exe
+D:\Unity codegym\CtoF\colorsquare\obj\Debug\colorsquare.pdb
